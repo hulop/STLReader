@@ -29,9 +29,6 @@
 
 #endif /* CSTLReader_hpp */
 
-// Author: Marco Visentini-Scarzanella
-// www.commsp.ee.ic.ac.uk/~marcovs
-
 
 using namespace std;
 using namespace cv;

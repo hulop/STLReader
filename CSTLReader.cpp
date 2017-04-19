@@ -21,8 +21,7 @@
  *******************************************************************************/
 
 #include "CSTLReader.hpp"
-// Author: Marco Visentini-Scarzanella
-// www.commsp.ee.ic.ac.uk/~marcovs
+
 
 
 STLReader::STLReader(void)
